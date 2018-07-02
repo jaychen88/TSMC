@@ -75,7 +75,7 @@
       "defaultValue": "VNET_EDA",
       "allowedValues": [
         "VNET_EDA"
-      ]
+      ],
       "metadata": {
         "description": "existing vnet name."
       }
@@ -86,7 +86,7 @@
       "allowedValues": [
         "Storage-Subnet",
         "Storage1-Subnet"
-      ]
+      ],
       "metadata": {
         "description": "existing subnet name"
       }
@@ -96,7 +96,7 @@
       "defaultValue": "TSMC-EDA-Storage",
       "allowedValues": [
        "TSMC-EDA-Storage"
-      ]
+      ],
       "metadata": {
         "description": "Resource Group of the existing Virtual Network as a string."
       }
